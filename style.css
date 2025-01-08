@@ -1,14 +1,32 @@
 body {
-    background-color: black;
+    background-color: lightsalmon;
     color: aqua;
     font-size: 21px;
+    font-family: Futura,  sans-serif;
 }
 
 p {
     color: brown;
 }
+.intro {
+    color: yellow;
+}
+/* This is the css box model */
 
 h1 {
     font-size: 70px;
     color: pink;
+}
+.top-section {
+    background-color: aqua;
+}
+span {
+    background-color: red;
+    color: blue;
+    font-size: 20px;
+}
+.box {
+    background-image: url(./images/plane.jpeg);
+    width: 100px;
+    margin: 100px;
 }
