@@ -30,3 +30,26 @@ span {
     width: 100px;
     margin: 100px;
 }
+a {
+    color: black;
+}
+
+p, h1 {
+    color: purple;
+}
+.body-text {
+    background-color: aqua;
+    padding: 50px;
+}
+
+.body-text p {
+    color: white;
+}
+
+.body-text p {
+    color: black;
+}
+
+.body-text a:hover {
+    color: blue;
+}
