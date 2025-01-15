@@ -1,24 +1,4 @@
-.subsection.header {
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin-bottom: 0.5rem;
-    color: red;
-}
-
-.subsection#preview {
-    background-color: #f0f0f0;
-    padding: 1rem; 
-    border: 1px solid #ccc;
-    margin-bottom: 1rem;
-    color: blue;
-}
-
-/* rule 1 */
-.subsection {
-    color: blue;
-  }
   
-  /* rule 2 */
-  .main .list {
-    color: red;
-  }  
+* {
+    outline: 2px solid red;
+}
