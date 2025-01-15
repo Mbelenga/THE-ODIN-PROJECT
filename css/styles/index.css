@@ -13,8 +13,12 @@
     color: blue;
 }
 
-/* styles.css */
-
-.ancestor .contents {
-    /* some declarations */
+/* rule 1 */
+.subsection {
+    color: blue;
+  }
+  
+  /* rule 2 */
+  .main .list {
+    color: red;
   }  
